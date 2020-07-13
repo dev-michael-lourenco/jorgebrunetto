@@ -31,9 +31,9 @@
 [![Less](https://img.shields.io/badge/-Less-000000?style=flat-square&logo=sass&link=https://github.com/jorgebrunetto/)](https://github.com/jorgebrunetto/)
 [![Stylus](https://img.shields.io/badge/-Stylus-333333?style=flat-square&logo=stylus&link=https://github.com/jorgebrunetto/)](https://github.com/jorgebrunetto/)
 
-[![Font Awesome](https://img.shields.io/badge/-Font%20Awesome-339AF0?style=flat-square&logo=font-awesome&link=https://github.com/jorgebrunetto/)](https://github.com/jorgebrunetto/)
+[![Font Awesome](https://img.shields.io/badge/-Font%20Awesome-000000?style=flat-square&logo=font-awesome&link=https://github.com/jorgebrunetto/)](https://github.com/jorgebrunetto/)
 [![Iconify](https://img.shields.io/badge/-Iconify-1769AA?style=flat-square&logo=iconify&link=https://github.com/jorgebrunetto/)](https://github.com/jorgebrunetto/)
-[![MaterialDesignIcons](https://img.shields.io/badge/-Material%20Design%20Icons-2196F3?style=flat-square&logo=material-design-icons&link=https://github.com/jorgebrunetto/)](https://github.com/jorgebrunetto/)
+[![MaterialDesignIcons](https://img.shields.io/badge/-Material%20Design%20Icons-000000?style=flat-square&logo=material-design-icons&link=https://github.com/jorgebrunetto/)](https://github.com/jorgebrunetto/)
 
 
 [![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&link=https://github.com/jorgebrunetto/)](https://github.com/jorgebrunetto/)
