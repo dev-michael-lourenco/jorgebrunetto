@@ -21,6 +21,7 @@
 ## Conhecimentos / Knowledges
 
 
+[![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=javascript&link=https://github.com/jorgebrunetto/)](https://github.com/jorgebrunetto/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/jorgebrunetto/)](https://github.com/jorgebrunetto/)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&link=https://github.com/jorgebrunetto/)](https://github.com/jorgebrunetto/)
 
