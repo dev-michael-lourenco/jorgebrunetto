@@ -50,6 +50,7 @@
 [![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker&link=https://github.com/jorgebrunetto/)](https://github.com/jorgebrunetto/)
 [![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&link=https://github.com/jorgebrunetto/)](https://github.com/jorgebrunetto/)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb&link=https://github.com/jorgebrunetto/)](https://github.com/jorgebrunetto/)
+[![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase&link=https://github.com/jorgebrunetto/)](https://github.com/jorgebrunetto/)
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&link=https://github.com/jorgebrunetto/)](https://github.com/jorgebrunetto/)
 [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&link=https://github.com/jorgebrunetto/)](https://github.com/jorgebrunetto/)
 
