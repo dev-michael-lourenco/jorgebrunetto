@@ -61,5 +61,4 @@
 
 [![Heroku](https://img.shields.io/badge/-Heroku-000?style=flat-square&logo=heroku&link=https://github.com/jorgebrunetto/)](https://github.com/jorgebrunetto/)
 [![Google Cloud](https://img.shields.io/badge/Google%20Cloud-000?style=flat-square&logo=google-cloud&link=https://github.com/jorgebrunetto/)](https://github.com/jorgebrunetto/)
-[![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-000?style=flat-square&logo=amazon-aws&link=https://github.com/jorgebrunetto/)](https://github.com/jorgebrunetto/)
-
+[![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-000?style=flat-square&logo=amazon-aws&link=https://github.com/jorgebrunetto/)](https://github.com/jorgebrunetto/){:target="_blank"}
