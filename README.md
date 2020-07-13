@@ -19,15 +19,14 @@
     Confira meu CV e conheça um pouco mais sobre mim.
 
 ## Conhecimentos / Knowledges
-
-
-[![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logoColor=black&logo=react&link=https://github.com/jorgebrunetto/)](https://github.com/jorgebrunetto/)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/jorgebrunetto/)](https://github.com/jorgebrunetto/)
-[![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&link=https://github.com/jorgebrunetto/)](https://github.com/jorgebrunetto/)
-
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/jorgebrunetto/)](https://github.com/jorgebrunetto/)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/jorgebrunetto/)](https://github.com/jorgebrunetto/)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&link=https://github.com/jorgebrunetto/)](https://github.com/jorgebrunetto/)
+
+[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/jorgebrunetto/)](https://github.com/jorgebrunetto/)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&link=https://github.com/jorgebrunetto/)](https://github.com/jorgebrunetto/)
+[![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery&link=https://github.com/jorgebrunetto/)](https://github.com/jorgebrunetto/)
+
 [![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&link=https://github.com/jorgebrunetto/)](https://github.com/jorgebrunetto/)
 [![Vue.js](https://img.shields.io/badge/-Vuejs-black?style=flat-square&logo=vue.js&link=https://github.com/jorgebrunetto/)](https://github.com/jorgebrunetto/)
 
