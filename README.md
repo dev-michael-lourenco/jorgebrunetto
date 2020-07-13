@@ -19,16 +19,28 @@
     Confira meu CV e conheça um pouco mais sobre mim.
 
 ## Conhecimentos / Knowledges
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/jorgebrunetto/)](https://github.com/jorgebrunetto/)
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/jorgebrunetto/)](https://github.com/jorgebrunetto/)
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&link=https://github.com/jorgebrunetto/)](https://github.com/jorgebrunetto/)
 
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/jorgebrunetto/)](https://github.com/jorgebrunetto/)
-[![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&link=https://github.com/jorgebrunetto/)](https://github.com/jorgebrunetto/)
-[![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery&link=https://github.com/jorgebrunetto/)](https://github.com/jorgebrunetto/)
+[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/jorgebrunetto/)](https://github.com/jorgebrunetto/)
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&link=https://github.com/jorgebrunetto/)](https://github.com/jorgebrunetto/)
+[![Vuetify](https://img.shields.io/badge/-Vuetify-1867C0?style=flat-square&logo=vuetify&link=https://github.com/jorgebrunetto/)](https://github.com/jorgebrunetto/)
+[![MaterialUI](https://img.shields.io/badge/-MaterialUI-0081CB?style=flat-square&logo=material-ui&link=https://github.com/jorgebrunetto/)](https://github.com/jorgebrunetto/)
+[![Foundation](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=CSS3&link=https://github.com/jorgebrunetto/)](https://github.com/jorgebrunetto/)
+[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/jorgebrunetto/)](https://github.com/jorgebrunetto/)
+[![Sass](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&link=https://github.com/jorgebrunetto/)](https://github.com/jorgebrunetto/)
+[![Less](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&link=https://github.com/jorgebrunetto/)](https://github.com/jorgebrunetto/)
+[![Stylus](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&link=https://github.com/jorgebrunetto/)](https://github.com/jorgebrunetto/)
+
+[![Font Awesome](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&link=https://github.com/jorgebrunetto/)](https://github.com/jorgebrunetto/)
+
 
 [![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&link=https://github.com/jorgebrunetto/)](https://github.com/jorgebrunetto/)
 [![Vue.js](https://img.shields.io/badge/-Vuejs-black?style=flat-square&logo=vue.js&link=https://github.com/jorgebrunetto/)](https://github.com/jorgebrunetto/)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/jorgebrunetto/)](https://github.com/jorgebrunetto/)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&link=https://github.com/jorgebrunetto/)](https://github.com/jorgebrunetto/)
+[![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery&link=https://github.com/jorgebrunetto/)](https://github.com/jorgebrunetto/)
+[![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&link=https://github.com/jorgebrunetto/)](https://github.com/jorgebrunetto/)
+[![Sketch](https://img.shields.io/badge/-Sketch-sketch?style=flat-square&logo=sketch&link=https://github.com/jorgebrunetto/)](https://github.com/jorgebrunetto/)
+
 
 [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&link=https://github.com/jorgebrunetto/)](https://github.com/jorgebrunetto/)
 [![Nestjs](https://img.shields.io/badge/-Nestjs-black?style=flat-square&logo=NestJS&link=https://github.com/jorgebrunetto/)](https://github.com/jorgebrunetto/)
@@ -45,3 +57,4 @@
 [![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&link=https://github.com/jorgebrunetto/)](https://github.com/jorgebrunetto/)
 [![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud&link=https://github.com/jorgebrunetto/)](https://github.com/jorgebrunetto/)
 [![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws&link=https://github.com/jorgebrunetto/)](https://github.com/jorgebrunetto/)
+
