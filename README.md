@@ -25,12 +25,15 @@
 [![Vuetify](https://img.shields.io/badge/-Vuetify-1867C0?style=flat-square&logo=vuetify&link=https://github.com/jorgebrunetto/)](https://github.com/jorgebrunetto/)
 [![ZurbFoundation](https://img.shields.io/badge/-Zurb%20Foundation-000000?style=flat-square&logo=favro&link=https://github.com/jorgebrunetto/)](https://github.com/jorgebrunetto/)
 [![MaterialUI](https://img.shields.io/badge/-MaterialUI-0081CB?style=flat-square&logo=material-ui&link=https://github.com/jorgebrunetto/)](https://github.com/jorgebrunetto/)
+
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/jorgebrunetto/)](https://github.com/jorgebrunetto/)
 [![Sass](https://img.shields.io/badge/-Sass-000000?style=flat-square&logo=sass&link=https://github.com/jorgebrunetto/)](https://github.com/jorgebrunetto/)
-[![Less](https://img.shields.io/badge/-Less-000000?style=flat-square&logo=less&link=https://github.com/jorgebrunetto/)](https://github.com/jorgebrunetto/)
+[![Less](https://img.shields.io/badge/-Less-000000?style=flat-square&logo=sass&link=https://github.com/jorgebrunetto/)](https://github.com/jorgebrunetto/)
 [![Stylus](https://img.shields.io/badge/-Stylus-333333?style=flat-square&logo=stylus&link=https://github.com/jorgebrunetto/)](https://github.com/jorgebrunetto/)
 
-[![Font Awesome](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&link=https://github.com/jorgebrunetto/)](https://github.com/jorgebrunetto/)
+[![Font Awesome](https://img.shields.io/badge/-Font%20Awesome-339AF0?style=flat-square&logo=font-awesome&link=https://github.com/jorgebrunetto/)](https://github.com/jorgebrunetto/)
+[![Iconify](https://img.shields.io/badge/-Iconify-1769AA?style=flat-square&logo=iconify&link=https://github.com/jorgebrunetto/)](https://github.com/jorgebrunetto/)
+[![MaterialDesignIcons](https://img.shields.io/badge/-Material%20Design%20Icons-2196F3?style=flat-square&logo=material-design-icons&link=https://github.com/jorgebrunetto/)](https://github.com/jorgebrunetto/)
 
 
 [![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&link=https://github.com/jorgebrunetto/)](https://github.com/jorgebrunetto/)
