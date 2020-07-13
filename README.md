@@ -44,7 +44,7 @@
 
 [![Figma](https://img.shields.io/badge/-Figma-000000?style=flat-square&logo=figma&link=https://github.com/jorgebrunetto/)](https://github.com/jorgebrunetto/)
 [![Sketch](https://img.shields.io/badge/-Sketch-000000?style=flat-square&logo=sketch&link=https://github.com/jorgebrunetto/)](https://github.com/jorgebrunetto/)
-[![Photoshop](https://img.shields.io/badge/-Photoshop-000000?style=flat-square&logo=photoshop&link=https://github.com/jorgebrunetto/)](https://github.com/jorgebrunetto/)
+[![Photoshop](https://img.shields.io/badge/-Photoshop-000000?style=flat-square&logo=adobe-photoshop&link=https://github.com/jorgebrunetto/)](https://github.com/jorgebrunetto/)
 
 
 [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&link=https://github.com/jorgebrunetto/)](https://github.com/jorgebrunetto/)
