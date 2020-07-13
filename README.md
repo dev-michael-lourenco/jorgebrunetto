@@ -41,8 +41,8 @@
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/jorgebrunetto/)](https://github.com/jorgebrunetto/)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&link=https://github.com/jorgebrunetto/)](https://github.com/jorgebrunetto/)
 [![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery&link=https://github.com/jorgebrunetto/)](https://github.com/jorgebrunetto/)
-[![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&link=https://github.com/jorgebrunetto/)](https://github.com/jorgebrunetto/)
-[![Sketch](https://img.shields.io/badge/-Sketch-sketch?style=flat-square&logo=sketch&link=https://github.com/jorgebrunetto/)](https://github.com/jorgebrunetto/)
+[![Figma](https://img.shields.io/badge/-Figma-000000?style=flat-square&logo=figma&link=https://github.com/jorgebrunetto/)](https://github.com/jorgebrunetto/)
+[![Sketch](https://img.shields.io/badge/-Sketch-000000?style=flat-square&logo=sketch&link=https://github.com/jorgebrunetto/)](https://github.com/jorgebrunetto/)
 
 
 [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&link=https://github.com/jorgebrunetto/)](https://github.com/jorgebrunetto/)
