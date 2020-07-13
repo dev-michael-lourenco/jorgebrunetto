@@ -20,7 +20,7 @@
 
 ## Conhecimentos / Knowledges
 
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/jorgebrunetto/)](https://github.com/jorgebrunetto/)
+[![HTML5](https://img.shields.io/badge/-HTML5-000?style=flat-square&logo=html5&logoColor=white&link=https://github.com/jorgebrunetto/)](https://github.com/jorgebrunetto/)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&link=https://github.com/jorgebrunetto/)](https://github.com/jorgebrunetto/)
 [![Vuetify](https://img.shields.io/badge/-Vuetify-1867C0?style=flat-square&logo=vuetify&link=https://github.com/jorgebrunetto/)](https://github.com/jorgebrunetto/)
 [![ZurbFoundation](https://img.shields.io/badge/-Zurb%20Foundation-000000?style=flat-square&logo=favro&link=https://github.com/jorgebrunetto/)](https://github.com/jorgebrunetto/)
