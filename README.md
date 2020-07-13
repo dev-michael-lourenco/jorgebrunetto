@@ -1,4 +1,4 @@
-### Um pouco sobre mim 👋
+### Um pouco sobre mim / About me 👋
 
 
 [![Site Badge](https://img.shields.io/badge/-Site-000000?style=flat-square&logo=react&logoColor=white&link=https://jorgebrunetto.com.br)](https://jorgebrunetto.com.br)
