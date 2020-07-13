@@ -46,7 +46,7 @@
 
 
 [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&link=https://github.com/jorgebrunetto/)](https://github.com/jorgebrunetto/)
-[![Nestjs](https://img.shields.io/badge/-Nestjs-black?style=flat-square&logo=NestJS&link=https://github.com/jorgebrunetto/)](https://github.com/jorgebrunetto/)
+[![Nextjs](https://img.shields.io/badge/-Nextjs-black?style=flat-square&logo=nest.js&link=https://github.com/jorgebrunetto/)](https://github.com/jorgebrunetto/)
 [![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker&link=https://github.com/jorgebrunetto/)](https://github.com/jorgebrunetto/)
 [![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&link=https://github.com/jorgebrunetto/)](https://github.com/jorgebrunetto/)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb&link=https://github.com/jorgebrunetto/)](https://github.com/jorgebrunetto/)
